@@ -1,16 +1,16 @@
 # 国内 ChatGPT 中文版镜像网站整理（5月持续更新）【镜像网站合集】
 
-> 更新时间：2025/05/08     
+> 更新时间：2025/05/10     
 
-为方便大家使用，整理了一些国内直接可用的 [**ChatGPT中文版镜像网站**](https://chat.yixiaai.com)。
+为方便大家使用，整理了一些国内直接可用的 [**ChatGPT中文版镜像网站**](https://chat.lanjing.pro)。
 
-在国内**无需翻墙**，直接在线就能使用 [**ChatGPT镜像网站**](https://chat.lanjing.pro)。各有特色，大家可自选使用~
+在国内**无需翻墙**，直接在线就能使用 [**ChatGPT镜像网站**](https://chat.xsimple.top)。各有特色，大家可自选使用~
 
 ---
 
 ## 什么是 ChatGPT镜像网站？
 
-[**ChatGPT镜像网站**](https://chat.yixiaai.com)（ChatGPT Mirror）是将原始官网内容复制并放置于其他服务器上的网站服务，因此国内用户无需翻墙即可使用。
+[**ChatGPT镜像网站**](https://chat.lanjing.pro)（ChatGPT Mirror）是将原始官网内容复制并放置于其他服务器上的网站服务，因此国内用户无需翻墙即可使用。
 
 相较于官网，**ChatGPT镜像网站**更适合国内用户：
 
@@ -26,9 +26,9 @@
 
 | ChatGPT 镜像网站 | 网站 | 运营时间 | 支持模型 | 特点 |
 |------------------|------|---------|----------|------|
-| ChatGPT一下 | [chat.yixiaai.com](https://chat.yixiaai.com/) | 1年半 | 支持3.5和4.0、GPT-4o、4o mini及o1全模型 | 支持 AI绘画、AI助手、AI插件，扫码即可使用 | 
-| AI智慧岛GPT | [chat.lify.vip](https://www.yixiaai.com/) | 1年半 | 支持3.5和4.0、GPT-4o、4o mini及o1全模型 | 提供 AI文件、AI PPT及思维导图功能 | 
-| AI学习GPT | [chatgpt.lanjing.pro](https://chatgpt.lanjing.pro/) | 1年 | 支持 GPT-4、4o、4o mini | 支持 DALL·E和Midjourney，免费体验 |
+| ChatGPT一下 | [chat.yixiaai.com](https://chat.xsimple.top/) | 1年半 | 支持3.5和4.0、GPT-4o、4o mini及o1全模型 | 支持 AI绘画、AI助手、AI插件，扫码即可使用 | 
+| AI智慧岛GPT | [chat.lify.vip](https://chat.yixiaai.com/) | 1年半 | 支持3.5和4.0、GPT-4o、4o mini及o1全模型 | 提供 AI文件、AI PPT及思维导图功能 | 
+| AI学习GPT | [chat.lanjing.pro](https://chat.lanjing.pro/) | 1年 | 支持 GPT-4、4o、4o mini | 支持 DALL·E和Midjourney，免费体验 |
 | 小鱼GPT | [ai.lansejingyu.com](https://ai.lansejingyu.com/) | 1年 | 支持 GPT-4、4o、4o mini | 操作简单便捷 | 
 | 蓝鲸GPT | [lanjing.ai](https://lanjing.pro/) | 1年 | 支持 GPT-4、4o | 免费体验 |
 
