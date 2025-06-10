@@ -1,8 +1,8 @@
 # 国内 ChatGPT 中文版镜像网站整理（6月持续更新）【镜像网站合集】
 
-> 更新时间：2025/06/08
+> 更新时间：2025/06/11
 
-为方便大家使用，整理了一些国内直接可用的 [**ChatGPT中文版镜像网站**](https://chat.lanjing.pro)。
+为方便大家使用，整理了一些国内直接可用的 [**ChatGPT中文版镜像网站**](https://chat.lanjingai.org)。
 
 在国内**无需翻墙**，直接在线就能使用 [**ChatGPT镜像网站**](https://xsimplechat.com)。各有特色，大家可自选使用~
 
@@ -10,7 +10,7 @@
 
 ## 什么是 ChatGPT镜像网站？
 
-[**ChatGPT镜像网站**](https://chat.lanjing.pro)（ChatGPT Mirror）是将原始官网内容复制并放置于其他服务器上的网站服务，因此国内用户无需翻墙即可使用。
+[**ChatGPT镜像网站**](https://chat.lanjingai.org)（ChatGPT Mirror）是将原始官网内容复制并放置于其他服务器上的网站服务，因此国内用户无需翻墙即可使用。
 
 相较于官网，**ChatGPT镜像网站**更适合国内用户：
 
@@ -28,7 +28,7 @@
 |------------------|------|---------|----------|------|
 | ChatGPT一下 | [chat.yixiaai.com](https://xsimplechat.com/) | 1年半 | 支持3.5和4.0、GPT-4o、4o mini及o1全模型 | 支持 AI绘画、AI助手、AI插件，扫码即可使用 | 
 | AI智慧岛GPT | [chat.lify.vip](https://chat.yixiaai.com/) | 1年半 | 支持3.5和4.0、GPT-4o、4o mini及o1全模型 | 提供 AI文件、AI PPT及思维导图功能 | 
-| AI学习GPT | [chat.lanjing.pro](https://chat.lanjing.pro/) | 1年 | 支持 GPT-4、4o、4o mini | 支持 DALL·E和Midjourney，免费体验 |
+| AI学习GPT | [chat.lanjingai.org](https://chat.lanjingai.org/) | 1年 | 支持 GPT-4、4o、4o mini | 支持 DALL·E和Midjourney，免费体验 |
 | 小鱼GPT | [ai.lansejingyu.com](https://ai.lansejingyu.com/) | 1年 | 支持 GPT-4、4o、4o mini | 操作简单便捷 | 
 | 蓝鲸GPT | [lanjing.ai](https://lanjing.pro/) | 1年 | 支持 GPT-4、4o | 免费体验 |
 
